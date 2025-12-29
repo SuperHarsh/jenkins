@@ -1,6 +1,6 @@
 <?php 
-require 'includes/db.php'; 
-include 'includes/header.php'; 
+require 'db.php'; 
+include 'header.php'; 
 
 // Fetch services from DB
 $stmt = $pdo->query("SELECT * FROM services");
