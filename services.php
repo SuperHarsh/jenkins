@@ -26,4 +26,4 @@ $services = $stmt->fetchAll();
     </div>
 </div>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
