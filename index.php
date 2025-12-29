@@ -15,6 +15,7 @@
 
     <div class="container">
         <h2>About This Page</h2>
+        <h2>This is a testing for azure app services...</h2>
         <p>This is a static HTML structure, but the section below is generated dynamically by the server using PHP.</p>
 
         <div class="php-box">
